@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bill",
+    "avatar": "",
+    "comment": "<p>Lorum Ipsum Dolar</p>"
+  },
+  {
+    "id": 2,
+    "name": "Hank",
+    "avatar": "",
+    "comment": "<p>Lorum Ipsum Dolar</p>"
+  },
+  {
+    "id": 3,
+    "name": "Hendrik V",
+    "avatar": "",
+    "comment": "<p>Customizing white label crowdfunding platform at a fraction of the price for MVP to get proof of concept instead of developing a bespoke solution. Faster time to deploy, great team to help us achieve our desired outcome. </p>"
+  },
+  {
+    "id": 4,
+    "name": "Jason K",
+    "avatar": "",
+    "comment": "<p>Secure data management and quick response from the team for any customizations, changes and support.</p>"
+  }
+]
