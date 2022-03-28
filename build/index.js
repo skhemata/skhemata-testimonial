@@ -15767,4 +15767,4 @@ __decorate([e$3({
 customElements.define('skhemata-testimonial', SkhemataTestimonial); // export { SkhemataTestimonial };
 
 export { SkhemataTestimonial };
-//# sourceMappingURL=index.js.map
+// # sourceMappingURL=index.js.map
