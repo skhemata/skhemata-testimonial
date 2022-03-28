@@ -103,8 +103,5 @@
       "eslint --fix",
       "prettier --write"
     ]
-  },
-  "publishConfig": {
-    "@skhemata:registry": "https://npm.pkg.github.com"
   }
 }
