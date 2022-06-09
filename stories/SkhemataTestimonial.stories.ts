@@ -124,6 +124,13 @@ export default {
       }
     },
   },
+  parameters: {
+    widgetCode: `
+      <skhemata-testimonial config-src="https://cdn.jsdelivr.net/npm/@skhemata/skhemata-testimonial@latest/demo/testimonials.json" interval="5000000"></skhemata-testimonial>
+
+      <script type="module" src="https://cdn.jsdelivr.net/npm/@skhemata/skhemata-testimonial@latest/build/index.js"></script> 
+    `,
+  },
 };
 
 interface Story<T> {
